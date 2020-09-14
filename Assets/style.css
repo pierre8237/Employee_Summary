@@ -1,0 +1,37 @@
+.team-heading {
+  background-color: rgba(34, 101, 247, 0.884);
+  border-radius: 8px;
+  border: 2px solid rgb(255, 255, 255);
+}
+
+.container {
+  background-color: red;
+  border-radius: 5px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.list-group-item {
+  text-shadow: rgba(34, 101, 247, 0.884);
+  color: rgba(34, 101, 247, 0.884);
+  font-weight: 500;
+}
+.jumbotron {
+  color: rgb(255, 255, 255);
+  text-shadow: 1px 1px 2px rgb(179, 30, 30), 0 0 1em rgba(221, 216, 198, 0),
+    rgb(255, 255, 255);
+}
+
+.card {
+  padding: 5px 5px 5px 5px;
+  margin: 5px;
+  text-shadow: 1px 1px 2px rgb(179, 30, 30), 0 0 1em rgba(221, 216, 198, 0),
+    rgb(255, 255, 255);
+}
+.card-header {
+  background-color: rgba(34, 101, 247, 0.884);
+  text-shadow: 1px 1px 2px rgb(179, 30, 30), 0 0 1em rgba(221, 216, 198, 0),
+    rgb(230, 229, 236);
+}
+.card-title {
+  color: rgb(255, 255, 255);
+  writing-mode: horizontal-tb;
+}
